@@ -1,0 +1,109 @@
+Name,volume,Base,5%,10%,15%,ID
+Veldspar,0.1,true, -, -, -,1230
+Concentrated Veldspar,0.1, -,true, -, -,17470
+Dense Veldspar,0.1, -, -,true, -,17471
+Stable Veldspar,0.1, -, -, -,true,46686
+Scordite,0.15,true, -, -, -,1228
+Condensed Scordite,0.15, -,true, -, -,17463
+Massive Scordite,0.15, -, -,true, -,17464
+Glossy Scordite,0.15, -, -, -,true,46688
+Pyroxeres,0.3,true, -, -, -,1224
+Solid Pyroxeres,0.3, -,true, -, -,17459
+Viscous Pyroxeres,0.3, -, -,true, -,17460
+Opulent Pyroxeres,0.3, -, -, -,true,46687
+Plagioclase,0.35,true, -, -, -,18
+Azure Plagioclase,0.35, -,true, -, -,17455
+Rich Plagioclase,0.35, -, -,true, -,17456
+Sparkling Plagioclase,0.35, -, -, -,true,46685
+Omber,0.6,true, -, -, -,1227
+Silvery Omber,0.6, -,true, -, -,17867
+Golden Omber,0.6, -, -,true, -,17868
+Platinoid Omber,0.6, -, -, -,true,46684
+Kernite,1.2,true, -, -, -,20
+Luminous Kernite,1.2, -,true, -, -,17452
+Fiery Kernite,1.2, -, -,true, -,17453
+Resplendant Kernite,1.2, -, -, -,true,46683
+Jaspet,2,true, -, -, -,1226
+Pure Jaspet,2, -,true, -, -,17448
+Pristine Jaspet,2, -, -,true, -,17449
+Immaculate Jaspet,2, -, -, -,true,46682
+Hemorphite,3,true, -, -, -,1231
+Vivid Hemorphite,3, -,true, -, -,17444
+Radiant Hemorphite,3, -, -,true, -,17445
+Scintillating Hemorphite,3, -, -, -,true,46681
+Hedbergite,3,true, -, -, -,21
+Vitric Hedbergite,3, -,true, -, -,17440
+Glazed Hedbergite,3, -, -,true, -,17441
+Lustrous Hedbergite,3, -, -, -,true,46680
+Gneiss,5,true, -, -, -,1229
+Iridescent Gneiss,5, -,true, -, -,17865
+Prismatic Gneiss,5, -, -,true, -,17866
+Brilliant Gneiss,5, -, -, -,true,46679
+Dark Ochre,8,true, -, -, -,1232
+Onyx Ochre,8, -,true, -, -,17436
+Obsidian Ochre,8, -, -,true, -,17437
+Jet Ochre,8, -, -, -,true,46678
+Crokite,16,true, -, -, -,1225
+Sharp Crokite,16, -,true, -, -,17432
+Crystalline Crokite,16, -, -,true, -,17433
+Pellucid Crokite,16, -, -, -,true,46677
+Spodumain,16,true, -, -, -,19
+Bright Spodumain,16, -,true, -, -,17428
+Gleaming Spodumain,16, -, -,true, -,17429
+Dazzling Spodumain,16, -, -, -,true,46676
+Arkonor,16,true, -, -, -,22
+Crimson Arkonor,16, -,true, -, -,17425
+Prime Arkonor,16, -, -,true, -,17426
+Flawless Arkonor,16, -, -, -,true,46675
+Bistot,16,true, -, -, -,1223
+Triclinic Bistot,16, -,true, -, -,17423
+Monoclinic Bistot,16, -, -,true, -,17424
+Cubic Bistot,16, -, -, -,true,46674
+Mercoxit,40,true, -, -, -,11396
+Magma Mercoxit,40, -,true, -, -,17869
+Vitreous Mercoxit,40, -, -,true, -,17870
+Ducinium,16, -, -, -,true,46673
+Noble Ducinium,16,true, -, -, -,46672
+Royal Ducinium,16, -,true, -, -,46671
+Imperial Ducinium,16, -, -,true, -,46670
+Eifyrium,16, -, -, -,true,46669
+Doped Eifyrium,16,true, -, -, -,46668
+Boosted Eifyrium,16, -,true, -, -,46667
+Augmented Eifyrium,16, -, -,true, -,46666
+Mordunium,0.1, -, -, -,true,46665
+Plum Mordunium,0.1,true, -, -, -,46664
+Prize Mordunium,0.1, -,true, -, -,46663
+Plunder Mordunium,0.1, -, -,true, -,46662
+Ytirium,0.6, -, -, -,true,46661
+Bootleg Ytirium,0.6,true, -, -, -,46660
+Firewater Ytirium,0.6, -,true, -, -,46659
+Moonshine Ytirium,0.6, -, -,true, -,46658
+Bezdnacine,16, -, -, -,true,46657
+Abyssal Bezdnacine,16,true, -, -, -,46656
+Hadal Bezdnacine,16, -,true, -, -,46655
+Rakovene,16, -, -,true, -,46654
+Abyssal Rakovene,16, -, -, -,true,46653
+Hadal Rakovene,16,true, -, -, -,46652
+Talassonite,16, -,true, -, -,46651
+Abyssal Talassonite,16, -, -,true, -,46650
+Hadal Talassonite,16, -, -, -,true,46649
+Griemeer,0.8,true, -, -, -,46648
+Clear Griemeer,0.8, -,true, -, -,46647
+Inky Griemeer,0.8, -, -,true, -,46646
+Opaque Griemeer,0.8, -, -, -,true,46645
+Hezorime,5,true, -, -, -,46644
+Dull Hezorime,5, -,true, -, -,46643
+Serrated Hezorime,5, -, -,true, -,46642
+Sharp Hezorime,5, -, -, -,true,46641
+Kylixium,1.2,true, -, -, -,46640
+Kaolin Kylixium,1.2, -,true, -, -,46639
+Argil Kylixium,1.2, -, -,true, -,46638
+Adobe Kylixium,1.2, -, -, -,true,46637
+Nocxite,4,true, -, -, -,46636
+Fragrant Nocxite,4, -,true, -, -,46635
+Intoxicating Nocxite,4, -, -,true, -,46634
+Ambrosial Nocxite,4, -, -, -,true,46633
+Ueganite,5,true, -, -, -,46632
+Foggy Ueganite,5, -,true, -, -,46631
+Overcast Ueganite,5, -, -,true, -,46630
+Stormy Ueganite,5, -, -, -,true,46629

@@ -1,0 +1,108 @@
+Veldspar
+Concentrated Veldspar
+Dense Veldspar
+Stable Veldspar
+Scordite
+Condensed Scordite
+Massive Scordite
+Glossy Scordite
+Pyroxeres
+Solid Pyroxeres
+Viscous Pyroxeres
+Opulent Pyroxeres
+Plagioclase
+Azure Plagioclase
+Rich Plagioclase
+Sparkling Plagioclase
+Omber
+Silvery Omber
+Golden Omber
+Platinoid Omber
+Kernite
+Luminous Kernite
+Fiery Kernite
+Resplendant Kernite
+Jaspet
+Pure Jaspet
+Pristine Jaspet
+Immaculate Jaspet
+Hemorphite
+Vivid Hemorphite
+Radiant Hemorphite
+Scintillating Hemorphite
+Hedbergite
+Vitric Hedbergite
+Glazed Hedbergite
+Lustrous Hedbergite
+Gneiss
+Iridescent Gneiss
+Prismatic Gneiss
+Brilliant Gneiss
+Dark Ochre
+Onyx Ochre
+Obsidian Ochre
+Jet Ochre
+Crokite
+Sharp Crokite
+Crystalline Crokite
+Pellucid Crokite
+Spodumain
+Bright Spodumain
+Gleaming Spodumain
+Dazzling Spodumain
+Arkonor
+Crimson Arkonor
+Prime Arkonor
+Flawless Arkonor
+Bistot
+Triclinic Bistot
+Monoclinic Bistot
+Cubic Bistot
+Mercoxit
+Magma Mercoxit
+Vitreous Mercoxit
+Ducinium
+Noble Ducinium
+Royal Ducinium
+Imperial Ducinium
+Eifyrium
+Doped Eifyrium
+Boosted Eifyrium
+Augmented Eifyrium
+Mordunium
+Plum Mordunium
+Prize Mordunium
+Plunder Mordunium
+Ytirium
+Bootleg Ytirium
+Firewater Ytirium
+Moonshine Ytirium
+Bezdnacine
+Abyssal Bezdnacine
+Hadal Bezdnacine
+Rakovene
+Abyssal Rakovene
+Hadal Rakovene
+Talassonite
+Abyssal Talassonite
+Hadal Talassonite
+Griemeer
+Clear Griemeer
+Inky Griemeer
+Opaque Griemeer
+Hezorime
+Dull Hezorime
+Serrated Hezorime
+Sharp Hezorime
+Kylixium
+Kaolin Kylixium
+Argil Kylixium
+Adobe Kylixium
+Nocxite
+Fragrant Nocxite
+Intoxicating Nocxite
+Ambrosial Nocxite
+Ueganite
+Foggy Ueganite
+Overcast Ueganite
+Stormy Ueganite
